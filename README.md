@@ -271,12 +271,14 @@ Areas of study include:
 * Circuit Analysis
 * Digital & Analog Electronics
 * Signals & Systems
-* C++
+* C++ & DSA
+* Python
 * Data Structures & Algorithms
 * Probability & Statistics
 * Mathematics
 * Embedded Systems concepts
 * EMT, DSP, DLD and other relevant subjects
+* Entrepreneurship and Project Management
 
 ---
 
