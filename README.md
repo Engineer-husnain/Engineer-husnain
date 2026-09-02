@@ -321,6 +321,14 @@ If you're working on something related to **electronics, PCB design, embedded sy
 
 ---
 
+##  How to Reach Me
+
+- 📧 **Email:** [your.email@gmail.com](muhammadhusnain0013@gmail.com)
+- 💼 **LinkedIn:** [Muhammad Husnain](https://www.linkedin.com/in/engineerhusnain/)
+- 🌐 **Portfolio:** [My Portfolio](https://yourwebsite.com/)
+- 💻 **GitHub:** [@yourusername](https://github.com/Engineer-husnain)
+
+---  
 ##  My Philosophy
 
 > **Learn the fundamentals. Build real things. Break them. Debug them. Understand why they failed. Build them better.**
