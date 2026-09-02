@@ -5,7 +5,7 @@
 I'm an **Electronics Engineering student in Pakistan**, focused on building expertise in **PCB & Hardware Design, Embedded Systems, Firmware Development, and Electronics Engineering**.
 I enjoy turning ideas into working electronic systems — from **circuit design and schematics to PCB layout, firmware, prototyping, testing, and debugging**.
 Alongside technical engineering, I'm developing my skills in **leadership, team coordination, project management, and event management**, with the long-term goal of becoming an engineer who can **both build technology and lead the teams and projects behind it**.
-🌍 I'm also working toward **international internships, research opportunities, and fully funded graduate scholarships** in electronics, embedded systems, PCB design, IoT, and related fields.
+I'm also working toward **international internships, research opportunities, and fully funded graduate scholarships** in electronics, embedded systems, PCB design, IoT, and related fields.
 
 ---
 
@@ -153,7 +153,7 @@ My PCB work includes:
 
 ---
 
-## 🧠 Currently Learning
+##  Currently Learning
 
 I'm continuously strengthening both my engineering fundamentals and practical skills.
 
@@ -191,7 +191,7 @@ I'm continuously strengthening both my engineering fundamentals and practical sk
 
 ---
 
-## 🎯 Where I'm Heading
+##  Where I'm Heading
 
 My long-term goal is to become a **well-rounded Electronics & Embedded Systems Engineer** capable of taking a product from an initial idea to a functional and manufacturable system.
 I'm particularly interested in the complete development cycle:
@@ -260,7 +260,7 @@ to build useful real-world products.
 
 ---
 
-## 📚 Education
+##  Education
 
 🎓 **Electronics Engineering**
 **The Islamia University of Bahawalpur, Punjab, Pakistan**
