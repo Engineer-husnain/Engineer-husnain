@@ -53,7 +53,7 @@ I'm particularly interested in:
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 ### PCB & Electronics
 
@@ -136,7 +136,7 @@ I've worked on and explored a variety of electronics and embedded systems, inclu
 
 I've studied and explored the architecture of **STM32-based flight controllers**, including existing open-source hardware designs and schematics, to understand how complex embedded systems are structured at the hardware level.
 
-### 🧩 PCB Design
+###  PCB Design
 
 My PCB work includes:
 
@@ -222,7 +222,7 @@ Eventually, I want to combine this technical capability with **leadership and pr
 
 ---
 
-## 🌍 International Goals
+##  International Goals
 
 I'm actively working toward opportunities that allow me to learn and contribute in international environments.
 ### I'm interested in:
