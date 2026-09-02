@@ -331,6 +331,6 @@ I'm still learning and improving every day, but my direction is clear:
 
 ---
 
-### ⭐ Thanks for visiting my GitHub!
+###  Thanks for visiting my GitHub!
 
 Feel free to explore my repositories, follow my engineering journey, and connect with me.
