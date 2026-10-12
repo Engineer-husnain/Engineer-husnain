@@ -325,7 +325,7 @@ If you're working on something related to **electronics, PCB design, embedded sy
 
 - 📧 **Email:** [muhammadhusnain0013@gmail.com](muhammadhusnain0013@gmail.com)
 - 💼 **LinkedIn:** [Muhammad Husnain](https://www.linkedin.com/in/engineerhusnain/)
-- 🌐 **Portfolio:** [My Portfolio](https://engineerhusnain.vercel.app/)
+- 🌐 **Portfolio:** [My Portfolio Website](https://engineerhusnain.vercel.app/)
 - 💻 **GitHub:** [Engineer-husnain](https://github.com/Engineer-husnain)
 
 ---  
