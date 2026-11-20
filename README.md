@@ -100,11 +100,11 @@ Alongside engineering, I'm developing **leadership, team coordination & project 
   🛠️ TODO: Replace REPO_NAME_1 and REPO_NAME_2 with YOUR real repos!
 ============================================================ -->
 <div align="center">
-<a href="[https://github.com/Engineer-husnain/REPO_NAME_1](https://github.com/Engineer-husnain/PCB-Projects-Portfolio)">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Engineer-husnain&repo=REPO_NAME_1&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9&icon_color=00d4aa&border_color=00d4aa&border_radius=10" />
+<a href="https://github.com/Engineer-husnain/PCB-Projects-Portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Engineer-husnain&repo=PCB-Projects-Portfolio&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9&icon_color=00d4aa&border_color=00d4aa&border_radius=10" />
 </a>
-<a href="[https://github.com/Engineer-husnain/REPO_NAME_2](https://github.com/Engineer-husnain/SkyTrace-Infrared-Sky-Explorer)">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Engineer-husnain&repo=REPO_NAME_2&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9&icon_color=00d4aa&border_color=00d4aa&border_radius=10" />
+<a href="https://github.com/Engineer-husnain/SkyTrace-Infrared-Sky-Explorer">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Engineer-husnain&repo=SkyTrace-Infrared-Sky-Explorer&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9&icon_color=00d4aa&border_color=00d4aa&border_radius=10" />
 </a>
 </div>
 
