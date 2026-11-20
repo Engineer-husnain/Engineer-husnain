@@ -234,7 +234,7 @@ I'm always happy to connect with **electronics engineers, PCB designers, robotic
 
 <div align="center">
 <b>Build technology. Lead teams. Solve real problems.</b><br/>
-Thanks for visiting — feel free to explore my repositories and let's build something worth it together 🚀
+Thanks for visiting — feel free to explore my repositories and let's build something worth it together 
 </div>
 
 <br/>
